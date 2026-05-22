@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cypress": "^15.15.0",
+    "cypress-real-events": "^1.15.0"
+  }
+}
